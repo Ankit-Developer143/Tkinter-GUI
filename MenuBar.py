@@ -9,6 +9,8 @@ root=Tk()
 root.geometry("680x440")
 root.title("Ankit Notepad")
 
+
+#Non-DropDown List
 # mymenu=Menu(root)
 # mymenu.add_command(label="File",command=myfunc)
 # mymenu.add_command(label="Refractor",command=myfunc)
